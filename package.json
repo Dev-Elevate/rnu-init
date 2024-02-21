@@ -1,0 +1,26 @@
+{
+  "name": "rnu-init",
+  "version": "0.0.1",
+  "description": "Initialize a rnu.config.ts/js file for the user to use react-native-ustyle easily",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dev-Elevate/rnu-init.git"
+  },
+  "keywords": [
+    "setup",
+    "react",
+    "native",
+    "ustyle"
+  ],
+  "author": "Rohit Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-Elevate/rnu-init/issues"
+  },
+  "homepage": "https://github.com/Dev-Elevate/rnu-init#readme"
+}
