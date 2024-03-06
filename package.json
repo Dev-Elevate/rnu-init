@@ -1,6 +1,6 @@
 {
   "name": "rnu-init",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Initialize a rnu.config.ts/js file for the user to use react-native-ustyle easily",
   "type": "module",
   "module": "index.ts",
