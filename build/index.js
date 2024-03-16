@@ -102,6 +102,34 @@ export const CONFIG = createConfig({
       19: 76,
       20: 80,
     },
+  },
+  components:{
+    Box:{
+      tag:"View",
+      baseStyle:{
+        padding:4,
+      }
+    },
+    Heading:{
+      tag:"Text",
+      baseStyle:{
+        fontSize:20,
+        fontWeight:"bold",
+      },
+      variants:{
+        size:{
+          sm:{
+            fontSize:16,
+          },
+          md:{
+            fontSize:20,
+          },
+          lg:{
+            fontSize:24,
+          }
+        }
+      }
+    },
   }
 } as const);
 
